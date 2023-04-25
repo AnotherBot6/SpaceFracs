@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Planet_Orange
+  - Star_Purple
+  - Coin_Green
+  - Rocket_Purple
+  - Alien_Blue
+  - Alien_Orange
+  - Star_Green
+  - Alien_Green
+  - Ufo_Purple
+  - Ufo_Blue
+  - Ufo_Green
+  - Planet_Purple
+  - Rocket_Yellow
+  - Star_Orange
+  - Star_Pink
+  - Alien_Purple
+  - Coin_Purple
+  - Alien_Pink
+  - Coin_Orange
+  - Undefined
+  - opciones
+  - Asteroid_Gray
+  - Planet_Blue
+  - Star_Yellow
+  - Rocket
+  - Planet_Pink
+  - Cube
+  - Start
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - GrabObject
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Numbers
+    uniqueID: 893577183
+    locked: 0

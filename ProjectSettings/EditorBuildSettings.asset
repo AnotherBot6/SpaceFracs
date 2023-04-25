@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 2b42f1aa65cfc384ea68a56f8049ce8a
+  - enabled: 1
+    path: Assets/Scenes/LevelSelector.unity
+    guid: 36896d525d0c73442b5bac3cece0105a
+  - enabled: 1
+    path: Assets/Scenes/EarthLevels/EarthEasy.unity
+    guid: f072a42684e5a26439d948e39575ac1f
+  - enabled: 1
+    path: Assets/Scenes/EarthLevels/EarthMedium.unity
+    guid: 62e0dbcd5cb8308478795d64e308f0bb
+  - enabled: 1
+    path: Assets/Scenes/EarthLevels/EarthHard.unity
+    guid: 2b9f23fd7a00bd144a52ece6ae0836e1
+  - enabled: 1
+    path: Assets/Scenes/VenusLevels/VenusEasy.unity
+    guid: 9dfe5b3c8e295194a94677e84594116d
+  - enabled: 1
+    path: Assets/Scenes/VenusLevels/VenusMedium.unity
+    guid: 4b9fb074b8a0eff42a6c3d10e78873b4
+  - enabled: 1
+    path: Assets/Scenes/VenusLevels/VenusHard.unity
+    guid: ec4af8d4f2d29594089d287a0e0f1bef
+  - enabled: 1
+    path: Assets/Scenes/MarsLevels/MarsEasy.unity
+    guid: 2d7a926bbc8cd89409185b158811e1d4
+  - enabled: 1
+    path: Assets/Scenes/MarsLevels/MarsHard.unity
+    guid: 1668cdb367162964d959ce03c7395fb4
+  - enabled: 1
+    path: Assets/Scenes/MarsLevels/MarsMedium.unity
+    guid: 056c0619c0b78584882265ba2fdb7d45
+  - enabled: 1
+    path: Assets/Scenes/MercuryLevels/MercuryEasy.unity
+    guid: f71759ea709cd2147a6258f720441291
+  - enabled: 1
+    path: Assets/Scenes/MercuryLevels/MercuryMedium.unity
+    guid: caa0ae2b1b072d446bbf26d991debe29
+  - enabled: 1
+    path: Assets/Scenes/MercuryLevels/MercuryHard.unity
+    guid: 50957a8047fc67d48a99c06a1e1cb777
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: Assets/Scenes/JupiterLevels/JupiterEasy.unity
+    guid: 86f86ed64a4d58342adaa370d014458b
+  - enabled: 0
+    path: Assets/Scenes/JupiterLevels/JupiterHard.unity
+    guid: 3312bbe54cd372e46bdd90ad391b6f7d
+  - enabled: 0
+    path: Assets/Scenes/JupiterLevels/JupiterMedium.unity
+    guid: 8a2ba9f641432b64287a6dde71cfcb64
+  - enabled: 0
+    path: Assets/Scenes/NeptuneLevels/NeptuneEasy.unity
+    guid: 69c11a8abd42c814494f8e17027e9e12
+  - enabled: 0
+    path: Assets/Scenes/NeptuneLevels/NeptuneHard.unity
+    guid: ee24b22bfb27cfc45a46ff97c6c44ef2
+  - enabled: 0
+    path: Assets/Scenes/NeptuneLevels/NeptuneMedium.unity
+    guid: 7ee0a9ae512edbd47afac6bb509709c4
+  - enabled: 0
+    path: Assets/Scenes/SaturnLevels/SaturnEasy.unity
+    guid: d2039ba380938fe478adab94e865597a
+  - enabled: 0
+    path: Assets/Scenes/SaturnLevels/SaturnHard.unity
+    guid: e2959d90226f6b04185ae1e1b3be69d1
+  - enabled: 0
+    path: Assets/Scenes/SaturnLevels/SaturnMedium.unity
+    guid: 289e412d2d1a48f469964a9604bed7a3
+  - enabled: 0
+    path: Assets/Scenes/UranLevels/UranEasy.unity
+    guid: 83fbf36820ec2b14a8c551246f043ce1
+  - enabled: 0
+    path: Assets/Scenes/UranLevels/UranHard.unity
+    guid: de47a78042d5a054aa72123aae172a46
+  - enabled: 0
+    path: Assets/Scenes/UranLevels/UranMedium.unity
+    guid: 2efc78fec46a5324a93ce90a0ca595f4
+  m_configObjects: {}
